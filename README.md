@@ -1,7 +1,7 @@
-#GUESSING GAME#
+# GUESSING GAME
 
-*Time Stamp at which make was run:*
-Mon Oct  2 18:47:19 IST 2017
+- *Time Stamp at which make was run:*
+Sun Oct  8 18:17:30 IST 2017
 
-Lines of code in guessinggame.sh:
+- **Lines of code in guessinggame.sh:**
 48
